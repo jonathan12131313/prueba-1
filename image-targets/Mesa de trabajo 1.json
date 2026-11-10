@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 0,
+    "left": 0,
+    "width": 900,
+    "height": 1200,
+    "isRotated": false,
+    "originalWidth": 900,
+    "originalHeight": 1200
+  },
+  "imagePath": "image-targets/Mesa de trabajo 1_luminance.png",
+  "metadata": null,
+  "name": "Mesa de trabajo 1",
+  "resources": {
+    "originalImage": "Mesa de trabajo 1_original.png",
+    "croppedImage": "Mesa de trabajo 1_cropped.png",
+    "thumbnailImage": "Mesa de trabajo 1_thumbnail.png",
+    "luminanceImage": "Mesa de trabajo 1_luminance.png"
+  },
+  "created": 1794267088584,
+  "updated": 1794267088584
+}

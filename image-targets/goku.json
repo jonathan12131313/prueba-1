@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 25,
+    "left": 0,
+    "width": 516,
+    "height": 688,
+    "isRotated": true,
+    "originalWidth": 516,
+    "originalHeight": 736
+  },
+  "imagePath": "image-targets/goku_luminance.jpg",
+  "metadata": null,
+  "name": "goku",
+  "resources": {
+    "originalImage": "goku_original.jpg",
+    "croppedImage": "goku_cropped.jpg",
+    "thumbnailImage": "goku_thumbnail.jpg",
+    "luminanceImage": "goku_luminance.jpg"
+  },
+  "created": 1794269678176,
+  "updated": 1794269686296
+}
